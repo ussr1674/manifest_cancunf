@@ -8,7 +8,7 @@
   <remote name="other" fetch="https://github.com/LineageOS"/>
 
  <!-- Device Resources -->
-  <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr1674" revision="fifteen"/>
+  <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr" revision="fifteen"/>
   <project path="vendor/motorola/cancunf" name="vendor_motorola_cancunf" remote="main" revision="fifteen"/>
   <project path="device/motorola/cancunf-kernel" name="device_motorola_cancunf-kernel" remote="main" revision="fifteen"/>
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="other" revision="lineage-21"/>
