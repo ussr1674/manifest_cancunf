@@ -4,7 +4,7 @@
  <!-- Remote -->
   <remote name="ussr" fetch="https://github.com/ussr1674"/>
   <remote name="camera" fetch="https://gitlab.com/sarthakroy2002"/>
-  <remote name="main" fetch="https://github.com/sarthakroy2002"/>
+  <remote name="main" fetch="https://github.com/PixelOS-Devices"/>
   <remote name="other" fetch="https://github.com/LineageOS"/>
 
  <!-- Device Resources -->
