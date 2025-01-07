@@ -12,7 +12,7 @@
   <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr" revision="fifteen"/>
   <project path="vendor/motorola/cancunf" name="vendor_motorola_cancunf" remote="main" revision="fifteen"/>
   <project path="device/motorola/cancunf-kernel" name="device_motorola_cancunf-kernel" remote="main" revision="fifteen"/>
-  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="other" revision="lineage-22.1"/>
+  <project path="hardware/mediatek" name="hardware_mediatek" remote="yaap" revision="fifteen"/>
   <project path="vendor/motorola/cancunf-motcamera" name="vendor_motorola_cancunf-motcamera" remote="camera" revision="master"/>
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="yaap" revision="fifteen"/>
 </manifest>
