@@ -10,7 +10,7 @@
   <remote name="pos" fetch="https://github.com/PixelOS-Devices"/>
 
  <!-- Device Resources -->
-  <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr" revision="fifteen"/>
+  <project path="device/motorola/cancunf" name="temp_stuff" remote="ussr" revision="fifteen"/>
   <project path="vendor/motorola/cancunf" name="vendor_motorola_cancunf" remote="main" revision="fifteen"/>
   <project path="device/motorola/cancunf-kernel" name="device_motorola_cancunf-kernel" remote="pos" revision="fifteen"/>
   <project path="hardware/mediatek" name="hardware_mediatek" remote="yaap" revision="fifteen"/>
