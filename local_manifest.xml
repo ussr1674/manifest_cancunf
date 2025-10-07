@@ -2,8 +2,8 @@
 <manifest>
   
  <!-- Remote -->
-  <remote name="ussr" fetch="https://github.com/ussr1674"/>
-  <remote name="main2" fetch="https://gitlab.com/cyberknight777"/>
+  <remote name="ussr" fetch="https://github.cogithubm/ussr1674"/>
+  <remote name="main2" fetch="https://github.com/cyberknight777"/>
   <remote name="main" fetch="https://github.com/sarthakroy2002"/>
   <remote name="other" fetch="https://github.com/LineageOS"/>
   <remote name="yaap" fetch="https://github.com/yaap"/>
