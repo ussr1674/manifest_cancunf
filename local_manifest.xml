@@ -12,7 +12,7 @@
   
 
  <!-- Device Resources -->
-  <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr" revision="infinityx-16"/>
+  <project path="device/motorola/cancunf" name="device_motorola_cancunf" remote="ussr" revision="mist-sixteen"/>
   <project path="vendor/motorola/cancunf" name="vendor_motorola_cancunf" remote="main" revision="sixteen"/>
   <project path="device/motorola/cancunf-kernel" name="device_motorola_cancunf-kernel" remote="yaap" revision="sixteen"/>
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" revision="lineage-23.0"/>
